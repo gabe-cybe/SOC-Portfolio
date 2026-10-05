@@ -8,3 +8,6 @@ notes-thm/
 *.raw
 *.mem
 *.zip
+
+# Suivi personnel (planning, bilans)
+suivi/
