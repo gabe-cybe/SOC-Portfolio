@@ -1,0 +1,10 @@
+# Notes personnelles des rooms TryHackMe : ne pas publier (réponses/flags)
+notes-thm/
+
+# Preuves brutes potentiellement volumineuses ou sensibles
+*.pcap
+*.pcapng
+*.evtx
+*.raw
+*.mem
+*.zip
