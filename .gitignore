@@ -11,3 +11,8 @@ notes-thm/
 
 # Suivi personnel (planning, bilans)
 suivi/
+
+# Identifiants et secrets locaux (ne jamais committer)
+*.local.md
+*.local
+secrets*
